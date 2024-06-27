@@ -1,5 +1,5 @@
 {
-  "name": "job-portal",
+  "name": "notes-manager",
   "version": "0.1.0",
   "proxy": "https://i-note-backend.onrender.com/",
   "private": true,
